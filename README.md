@@ -80,13 +80,16 @@ Imagine uma régua de comprimento próprio $l$ que está em repouso no referenci
 
 ### Comparativo entre os dois Observadores
 
+
 **1. Comprimento medido por $\bar{O}$ (Comprimento Próprio):**
 
 :straight_ruler: O observador móvel $\bar{O}$ mede as extremidades na sua linha de simultaneidade ($\bar{t} = 0$, o eixo $\bar{x}$).
 
 :straight_ruler: A extremidade traseira está em $A(0,0)$ e a dianteira está no evento $C$, onde $\bar{t}_C = 0$ e $\bar{x}_C = l$. O comprimento próprio é $l$.
 
+
 **2. Comprimento medido por $O$ (Laboratório):**
+
 
 :triangular_ruler: O observador do laboratório $O$ precisa medir ambas as extremidades no seu próprio "Agora" ($t = 0$, o eixo $x$).
 
@@ -110,7 +113,7 @@ $$x_B = \left(\frac{l}{\sqrt{1 - v^2}}\right) - v \cdot \left(\frac{v \cdot l}{\
 $$x_B = \frac{l \cdot (1 - v^2)}{\sqrt{1 - v^2}}$$
 $$x_B = l \cdot \sqrt{1 - v^2}$$
 
-### Conclusão Geométrica
+### Conclusão Geométrica:
 
 :bulb: O comprimento medido pelo laboratório é $x_B = l \cdot \sqrt{1 - v^2}$, que é **menor** do que o comprimento próprio $l$.
 
