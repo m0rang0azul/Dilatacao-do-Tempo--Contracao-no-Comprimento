@@ -1,6 +1,6 @@
 # Dilatação do Tempo e Contração do Comprimento 
 
-**Uma explicação baseada na Seção 1.8 de Bernard Schutz**
+**Uma explicação baseada na Seção 1.8 de Bernard Schutz** 📃 
 
 Luana M. Souza
 
@@ -66,9 +66,13 @@ A contração do comprimento responde à pergunta: *como medimos a extensão de 
 
 Medir o comprimento de uma régua em movimento significa registrar as posições de suas duas extremidades **SIMULTANEAMENTE** (no mesmo instante de tempo do observador) e calcular a distância entre esses dois eventos.
 
+<p align="center">
+  <img src="figura-1-13.gif" alt="Medição do Comprimento de uma Régua em Movimento" width="350">
+</p>
+
 ### A Faixa no Espaço-Tempo 
 
-Imagine uma régua de comprimento próprio $l$ que está em repouso no referencial móvel $\bar{O}$. A trajetória da régua no espaço-tempo forma uma "faixa" de linhas de universo paralelas:
+Imagine uma régua de comprimento próprio $l$ que está em repouso no referencial móvel $\bar{O}$. A trajetória da régua no espaço-tempo forma uma "faixa" de linhas de universo paralelas (gif acima):
 
 :straight_ruler: Extremidade traseira viaja ao longo do eixo $\bar{t}$ ($\bar{x} = 0$).
 
@@ -88,19 +92,19 @@ Imagine uma régua de comprimento próprio $l$ que está em repouso no referenci
 
 :triangular_ruler: A traseira está em $A(0,0)$ e a dianteira está no evento $B$, que é a interseção da linha da frente da régua com o eixo $x$ ($t = 0$).
 
-<p align="center">
-  <img src="figura-1-13.gif" alt="Medição do Comprimento de uma Régua em Movimento" width="400">
-</p>
 
-### Dedução Geométrica
+### Dedução Geométrica:
 
 O evento $C$ (localizado no eixo $\bar{x}$, cuja equação é $t = v \cdot x$) tem coordenadas no gráfico de $O$ dadas por:
+
 $$x_C = \frac{l}{\sqrt{1 - v^2}} \quad \text{e} \quad t_C = \frac{v \cdot l}{\sqrt{1 - v^2}}$$
 
 A linha de universo da frente da régua passa pelo evento $C$ e se desloca com velocidade $v$:
+
 $$\Delta x = v \cdot \Delta t \implies x_C - x_B = v \cdot (t_C - t_B)$$
 
 Como $t_B = 0$ para a medição simultânea em $O$:
+
 $$x_B = x_C - v \cdot t_C$$
 $$x_B = \left(\frac{l}{\sqrt{1 - v^2}}\right) - v \cdot \left(\frac{v \cdot l}{\sqrt{1 - v^2}}\right)$$
 $$x_B = \frac{l \cdot (1 - v^2)}{\sqrt{1 - v^2}}$$
@@ -108,5 +112,14 @@ $$x_B = l \cdot \sqrt{1 - v^2}$$
 
 ### Conclusão Geométrica
 
-- O comprimento medido pelo laboratório é $x_B = l \cdot \sqrt{1 - v^2}$, que é **menor** do que o comprimento próprio $l$.
-- **Causa geométrica fundamental:** A falha de simultaneidade. Os dois observadores cortam a "faixa" da régua no espaço-tempo em ângulos de simultaneidade totalmente diferentes.
+:bulb: O comprimento medido pelo laboratório é $x_B = l \cdot \sqrt{1 - v^2}$, que é **menor** do que o comprimento próprio $l$.
+
+:bulb: **Causa geométrica fundamental:** A falha de simultaneidade. Os dois observadores cortam a "faixa" da régua no espaço-tempo em ângulos de simultaneidade totalmente diferentes.
+
+## Referências
+
+- SCHUTZ, Bernard. *A First Course in General Relativity*. 3ª ed. Cambridge: Cambridge University Press, 2022. — Capítulo 1, Seções 1.4 e 1.5, e Exercício 1.3.
+
+---
+
+*Post baseado no experimento mental do relógio de luz e nos diagramas de Minkowski, seguindo a abordagem do livro de Bernard Schutz, "A First Course in General Relativity".*
