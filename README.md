@@ -1,4 +1,4 @@
-# Dilatação do Tempo e Contração do comprimento 
+# Dilatação do Tempo e Contração do Comprimento 
 
 **Uma explicação baseada na Seção 1.8 de Bernard Schutz**
 
