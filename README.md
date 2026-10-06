@@ -1,6 +1,9 @@
 # Dilatação do Tempo e Contração do comprimento 
 
-**Baseado na Seção 1.8 do livro "A First Course in General Relativity" de Bernard Schutz.**
+**Uma explicação baseada na Seção 1.8 de Bernard Schutz**
+
+Luana M. Souza
+
 
 ---
 
@@ -17,19 +20,26 @@ Toda a física decorre de dois pilares fundamentais estabelecidos até a Seção
 
 ---
 
-## 2. Dilatação do Tempo (Abordagem Geométrica)
+## 2. Dilatação do Tempo 
 
 A dilatação do tempo responde à pergunta: *como o tempo medido por um único relógio em movimento se compara com o tempo medido pelos relógios do laboratório?*
 
 ### Construção no Diagrama de Espaço-Tempo 
 
-- Considere o observador do laboratório $O$ e o observador móvel $\bar{O}$ viajando com velocidade $v$ ao longo do eixo $x$.
-- O relógio de $\bar{O}$ viaja ao longo do seu próprio eixo do tempo $\bar{t}$ (onde $\bar{x} = 0$), cuja equação no gráfico de $O$ é $x = v \cdot t$.
-- Para calibrar a unidade de tempo de $\bar{O}$, desenhamos a hipérbole invariante do tipo-tempo que passa por $t = 1$ no eixo do laboratório:
-  $$-t^2 + x^2 = -1$$
-- O relógio de $\bar{O}$ marca exatamente 1 segundo (ou 1 metro de tempo) no evento $B$, que é a interseção do eixo $\bar{t}$ com essa hipérbole.
+:watch: Considere o observador do laboratório $O$ e o observador móvel $\bar{O}$ viajando com velocidade $v$ ao longo do eixo $x$.
 
-### Dedução Algébrica Simples
+:watch: O relógio de $\bar{O}$ viaja ao longo do seu próprio eixo do tempo $\bar{t}$ (onde $\bar{x} = 0$), cuja equação no gráfico de $O$ é $x = v \cdot t$.
+
+:watch: Para calibrar a unidade de tempo de $\bar{O}$, desenhamos a hipérbole invariante do tipo-tempo que passa por $t = 1$ no eixo do laboratório:
+$$-t^2 + x^2 = -1$$.
+
+:watch: O relógio de $\bar{O}$ marca exatamente 1 segundo (ou 1 metro de tempo) no evento $B$, que é a interseção do eixo $\bar{t}$ com essa hipérbole.
+
+<p align="center">
+  <img src="Dilatacao-do-tempo.gif" alt="Dilatação do Tempo na Geometria do Espaço-Tempo" width="400">
+</p>
+
+### Dedução Algébrica Simples:
 
 Substituindo a linha de universo de $\bar{O}$ ($x = v \cdot t$) na equação da hipérbole:
 
@@ -38,11 +48,11 @@ $$-t^2 \cdot (1 - v^2) = -1$$
 $$t^2 = \frac{1}{(1 - v^2)}$$
 $$t = \frac{1}{\sqrt{1 - v^2}}$$
 
-### Interpretação Física
+### Interpretação Física:
 
-- Para o observador móvel $\bar{O}$, decorreu um tempo próprio de apenas $\Delta \bar{t} = 1$ entre a origem e o evento $B$.
-- Para o observador do laboratório $O$, o evento $B$ ocorre no instante de tempo $t = \frac{1}{\sqrt{1 - v^2}} > 1$.
-- Como $t > \Delta \bar{t}$, o observador $O$ conclui que o relógio móvel está rodando mais devagar (**dilatação do tempo**).
+:hourglass: Para o observador móvel $\bar{O}$, decorreu um tempo próprio de apenas $\Delta \bar{t} = 1$ entre a origem e o evento $B$.
+:hourglass: Para o observador do laboratório $O$, o evento $B$ ocorre no instante de tempo $t = \frac{1}{\sqrt{1 - v^2}} > 1$.
+:hourglass: Como $t > \Delta \bar{t}$, o observador $O$ conclui que o relógio móvel está rodando mais devagar (**dilatação do tempo**).
 
 ---
 
