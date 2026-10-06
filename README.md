@@ -1,4 +1,4 @@
-# Dilatação do Tempo e Contração do espaço 
+# Dilatação do Tempo e Contração do comprimento 
 
 **Baseado na Seção 1.8 do livro "A First Course in General Relativity" de Bernard Schutz.**
 
@@ -21,7 +21,7 @@ Toda a física decorre de dois pilares fundamentais estabelecidos até a Seção
 
 A dilatação do tempo responde à pergunta: *como o tempo medido por um único relógio em movimento se compara com o tempo medido pelos relógios do laboratório?*
 
-### Construção no Diagrama de Espaço-Tempo (Figura 1.11 do Schutz)
+### Construção no Diagrama de Espaço-Tempo 
 
 - Considere o observador do laboratório $O$ e o observador móvel $\bar{O}$ viajando com velocidade $v$ ao longo do eixo $x$.
 - O relógio de $\bar{O}$ viaja ao longo do seu próprio eixo do tempo $\bar{t}$ (onde $\bar{x} = 0$), cuja equação no gráfico de $O$ é $x = v \cdot t$.
@@ -46,7 +46,7 @@ $$t = \frac{1}{\sqrt{1 - v^2}}$$
 
 ---
 
-## 3. Contração do Comprimento / Lorentz (Abordagem Geométrica)
+## 3. Contração do Comprimento 
 
 A contração do comprimento responde à pergunta: *como medimos a extensão de um objeto em movimento?*
 
@@ -54,7 +54,7 @@ A contração do comprimento responde à pergunta: *como medimos a extensão de 
 
 Medir o comprimento de uma régua em movimento significa registrar as posições de suas duas extremidades **SIMULTANEAMENTE** (no mesmo instante de tempo do observador) e calcular a distância entre esses dois eventos.
 
-### A Faixa no Espaço-Tempo (Figura 1.13 do Schutz)
+### A Faixa no Espaço-Tempo 
 
 Imagine uma régua de comprimento próprio $l$ que está em repouso no referencial móvel $\bar{O}$. A trajetória da régua no espaço-tempo forma uma "faixa" de linhas de universo paralelas:
 
