@@ -70,18 +70,27 @@ Medir o comprimento de uma régua em movimento significa registrar as posições
 
 Imagine uma régua de comprimento próprio $l$ que está em repouso no referencial móvel $\bar{O}$. A trajetória da régua no espaço-tempo forma uma "faixa" de linhas de universo paralelas:
 
-- Extremidade traseira viaja ao longo do eixo $\bar{t}$ ($\bar{x} = 0$).
-- Extremidade dianteira viaja ao longo da linha $\bar{x} = l$.
+:straight_ruler: Extremidade traseira viaja ao longo do eixo $\bar{t}$ ($\bar{x} = 0$).
+
+:straight_ruler: Extremidade dianteira viaja ao longo da linha $\bar{x} = l$.
 
 ### Comparativo entre os dois Observadores
 
 **1. Comprimento medido por $\bar{O}$ (Comprimento Próprio):**
-- O observador móvel $\bar{O}$ mede as extremidades na sua linha de simultaneidade ($\bar{t} = 0$, o eixo $\bar{x}$).
-- A extremidade traseira está em $A(0,0)$ e a dianteira está no evento $C$, onde $\bar{t}_C = 0$ e $\bar{x}_C = l$. O comprimento próprio é $l$.
+
+:straight_ruler: O observador móvel $\bar{O}$ mede as extremidades na sua linha de simultaneidade ($\bar{t} = 0$, o eixo $\bar{x}$).
+
+:straight_ruler: A extremidade traseira está em $A(0,0)$ e a dianteira está no evento $C$, onde $\bar{t}_C = 0$ e $\bar{x}_C = l$. O comprimento próprio é $l$.
 
 **2. Comprimento medido por $O$ (Laboratório):**
-- O observador do laboratório $O$ precisa medir ambas as extremidades no seu próprio "Agora" ($t = 0$, o eixo $x$).
-- A traseira está em $A(0,0)$ e a dianteira está no evento $B$, que é a interseção da linha da frente da régua com o eixo $x$ ($t = 0$).
+
+:triangular_ruler: O observador do laboratório $O$ precisa medir ambas as extremidades no seu próprio "Agora" ($t = 0$, o eixo $x$).
+
+:triangular_ruler: A traseira está em $A(0,0)$ e a dianteira está no evento $B$, que é a interseção da linha da frente da régua com o eixo $x$ ($t = 0$).
+
+<p align="center">
+  <img src="figura-1-13.gif" alt="Medição do Comprimento de uma Régua em Movimento" width="400">
+</p>
 
 ### Dedução Geométrica
 
