@@ -36,7 +36,7 @@ $$-t^2 + x^2 = -1$$.
 :watch: O relógio de $\bar{O}$ marca exatamente 1 segundo (ou 1 metro de tempo) no evento $B$, que é a interseção do eixo $\bar{t}$ com essa hipérbole.
 
 <p align="center">
-  <img src="Dilatacao-do-tempo.gif" alt="Dilatação do Tempo na Geometria do Espaço-Tempo" width="400">
+  <img src="dilatacao-do-tempo.gif" alt="Dilatação do Tempo na Geometria do Espaço-Tempo" width="400">
 </p>
 
 ### Dedução Algébrica Simples:
@@ -51,7 +51,9 @@ $$t = \frac{1}{\sqrt{1 - v^2}}$$
 ### Interpretação Física:
 
 :hourglass: Para o observador móvel $\bar{O}$, decorreu um tempo próprio de apenas $\Delta \bar{t} = 1$ entre a origem e o evento $B$.
+
 :hourglass: Para o observador do laboratório $O$, o evento $B$ ocorre no instante de tempo $t = \frac{1}{\sqrt{1 - v^2}} > 1$.
+
 :hourglass: Como $t > \Delta \bar{t}$, o observador $O$ conclui que o relógio móvel está rodando mais devagar (**dilatação do tempo**).
 
 ---
