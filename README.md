@@ -121,7 +121,7 @@ $$x_B = l \cdot \sqrt{1 - v^2}$$
 
 ## Referências
 
-- SCHUTZ, Bernard. *A First Course in General Relativity*. 3ª ed. Cambridge: Cambridge University Press, 2022. — Capítulo 1, Seções 1.4 e 1.5, e Exercício 1.3.
+- SCHUTZ, Bernard. *A First Course in General Relativity*. 3ª ed. Cambridge: Cambridge University Press, 2022. — Capítulo 1, Seção 1.8.
 
 ---
 
